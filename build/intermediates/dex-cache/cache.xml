@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Crystal/Documents/workspace/android/soco/TestNet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Crystal/Documents/workspace/android/soco/TestNet/app/build/intermediates/pre-dexed/debug/classes-298d2bb335f3f9102f11294dc3b74cc9e974bb3a.jar" />
+    </item>
+    <item
+        jar="/Users/Crystal/Documents/workspace/android/soco/TestNet/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Crystal/Documents/workspace/android/soco/TestNet/app/build/intermediates/pre-dexed/debug/classes-a77946045748d1b43e29dc6a329d881c14584636.jar" />
+    </item>
+    <item
+        jar="/Users/Crystal/Documents/workspace/android/soco/TestNet/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Crystal/Documents/workspace/android/soco/TestNet/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-5dcbf578f2f2923390cb5eb085f87c606b69fe37.jar" />
+    </item>
+    <item
+        jar="/Users/Crystal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Crystal/Documents/workspace/android/soco/TestNet/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-a9efdb2d39b702cbabd1a360abbad06f30498899.jar" />
+    </item>
+
+</items>
